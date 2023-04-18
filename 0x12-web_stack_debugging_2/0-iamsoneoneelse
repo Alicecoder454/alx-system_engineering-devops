@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-# Running a software as someone else
-sudo -u "$1" whoami
